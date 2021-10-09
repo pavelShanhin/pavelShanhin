@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pavelShanhin
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Node.js
